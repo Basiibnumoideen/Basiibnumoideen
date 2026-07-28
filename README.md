@@ -1,382 +1,288 @@
-<!-- ========================================================= -->
-<!--                 GITHUB PROFILE README                      -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:5B21B6,50:7C3AED,100:2563EB&text=Basi%20Ibnumoideen&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20%7C%20MERN%20Developer%20%7C%20Roblox%20Developer&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Hi,%20I'm%20[Your%20Name]&fontSize=38&fontColor=E9E4FF&animation=fadeIn&fontAlignY=36&desc=Roblox%20Game%20Developer%20·%20AI-Augmented%20Builder&descAlignY=55&descSize=17&descColor=C4B5FD" width="100%"/>
+
+<a href="https://github.com/yourusername">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Roblox+Game+Developer;Building+Kerala+Hangout+%E2%80%94+A+Social+Hangout+World;AI-Augmented+Development+with+Claude+MCP;Live+Studio+Sessions+%E2%86%92+Shipped+Features" alt="Typing SVG"/>
+</a>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Full+Stack+Software+Engineer;MERN+Stack+Developer;Roblox+Game+Developer;Building+Scalable+Applications;Always+Learning+New+Technologies)](https://git.io/typing-svg)
-
-<br/>
-
-![](https://img.shields.io/badge/B.Tech-Computer%20Science-5B21B6?style=for-the-badge)
-![](https://img.shields.io/badge/Open%20Source-Contributor-7C3AED?style=for-the-badge)
-![](https://img.shields.io/badge/Location-Kerala,%20India-2563EB?style=for-the-badge)
-
-<br/>
-
-<a href="https://yourportfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/yourprofile">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:your@email.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Basiibnumoideen">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
-</a>
+<img src="https://img.shields.io/badge/🎓_Add_Your_Degree_%26_University-8B5CF6?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/📍_Add_Your_City%2C_Country-8B5CF6?style=flat-square&labelColor=0D1117"/>
 
 <br/><br/>
 
-![](https://komarev.com/ghpvc/?username=Basiibnumoideen&style=for-the-badge&color=7C3AED)
+<a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&labelColor=0D1117"/></a>
+<a href="https://linkedin.com/in/yourusername" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/></a>
+<a href="https://github.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/GitHub-6366F1?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/></a>
 
-![](https://img.shields.io/github/followers/Basiibnumoideen?style=for-the-badge&color=7C3AED)
+<br/><br/>
 
-![](https://img.shields.io/github/stars/Basiibnumoideen?style=for-the-badge&color=7C3AED)
+<img src="https://komarev.com/ghpvc/?username=yourusername&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0D1117"/>
+<img src="https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=6366f1&labelColor=0D1117&label=FOLLOWERS&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/github/stars/yourusername?style=for-the-badge&color=8b5cf6&labelColor=0D1117&label=STARS&logo=github&logoColor=white"/>
 
 </div>
 
 ---
 
-# About Me
+## 🧑‍💻 About Me
 
-I am a **Full Stack Software Engineer** passionate about building scalable, secure, and high-performance digital products. My primary expertise lies in the **MERN Stack**, where I design modern web applications with clean architecture and maintainable code.
+I'm **[Your Name]**, a Roblox developer focused on building immersive, systems-driven **social hangout experiences**. My flagship project, **Kerala Hangout**, is a tropical-themed social world built through live, iterative Roblox Studio sessions — combining a full in-game economy, a multi-app in-game phone UI, procedural environment generation, and admin tooling into one continuously evolving experience.
 
-Alongside web engineering, I actively develop immersive multiplayer experiences in **Roblox Studio**, focusing on gameplay systems, optimization, UI/UX, and scalable game architecture.
+I treat **AI-augmented development** as a core part of my workflow — using Claude's MCP integration for live deployment, in-session debugging, and scripting directly inside Roblox Studio, with every fix verified against real screenshots and console output before it ships.
 
-I enjoy solving complex engineering problems, exploring AI-powered development workflows, and continuously improving software quality through modern engineering practices.
+Beyond Roblox, I build responsive, production-style web interfaces — from Bootstrap-based landing pages to component-driven layouts — with the same emphasis on clean structure and shipped, working results.
 
-### Open To
+- 🧠 **Software Engineering** — service-oriented Luau architecture, state & data management, GUI systems
+- 🤖 **AI/ML-Augmented Workflows** — Claude MCP-driven live scripting, debugging, and deployment
+- 🌐 **Full Stack Development** — Roblox back-end systems (economy, data, admin) + responsive front-end web builds
+- 🎯 **Product Engineering Mindset** — ships in iterative, verifiable phases; scopes before it builds
 
-- Full Stack Software Engineering
-- Backend Engineering
-- Frontend Engineering
-- AI-powered Applications
-- Open Source Collaboration
-- Freelance Projects
-- Remote Opportunities
+### 🎯 Open To
+Freelance Roblox / game development&nbsp;·&nbsp;Collaborations on social & UGC experiences&nbsp;·&nbsp;Full-time opportunities in game or product engineering
 
 ---
 
-# Tech Stack
+## 🛠️ Tech Stack
 
-## Languages
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=lua,html,css,js&theme=dark"/>
 
-<p>
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark"/>
 
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,lua,python"/>
+**Backend & Databases**
+<br/>
+<img src="https://img.shields.io/badge/Roblox_DataStoreService-8B5CF6?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/ModuleScript_Architecture-6366F1?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Economy_%26_Admin_Systems-8B5CF6?style=for-the-badge&labelColor=0D1117"/>
 
-</p>
-
-## Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,vite"/>
-
-</p>
-
-## Backend & Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase"/>
-
-</p>
-
-## Cloud • DevOps • Tooling
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,vscode,figma,postman"/>
-
-</p>
+**Cloud, DevOps & Tooling**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
+<img src="https://img.shields.io/badge/Roblox_Studio-6366F1?style=for-the-badge&logo=roblox&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Claude_MCP-8B5CF6?style=for-the-badge&labelColor=0D1117"/>
 
 ---
 
-# AI / ML Expertise
+## 🤖 AI / ML-Augmented Engineering
 
 | Domain | Proficiency | Details |
-|---------|------------|----------|
-| Prompt Engineering | Advanced | Structured prompting & AI workflow automation |
-| LLM Integration | Intermediate | API integration and AI-assisted development |
-| AI Productivity | Advanced | AI tools for software engineering |
-| Automation | Intermediate | Workflow optimization |
-| Intelligent UI | Intermediate | AI-assisted user experiences |
+|---|:---:|---|
+| AI-Augmented Development | ⭐⭐⭐⭐ | Live Claude MCP integration for in-Studio deployment, debugging, and scripting |
+| AI-Assisted Debugging | ⭐⭐⭐⭐ | Resolves console errors, scoping crashes, and layout bugs through iterative AI-assisted live sessions, verified against console output and screenshots |
+| Procedural Generation | ⭐⭐⭐ | Natural terrain generation (coconut-palm biomes) using Perlin noise via `Terrain:FillRegion` |
+| Prompt-Driven Workflows | ⭐⭐⭐ | Structures multi-phase feature rollouts — e.g. a 13-phase in-game economy build — for iterative AI-assisted implementation |
 
 ---
 
-# Featured Projects
+## 🚀 Featured Projects
+
+<details open>
+<summary><b>🌴 Kerala Hangout (KH) — Social Hangout Experience</b></summary>
+<br/>
+
+A tropical-themed Roblox social hangout world, built through live, MCP-driven Roblox Studio sessions. KH combines a full in-game economy, a multi-app in-game smartphone UI, procedural environment generation, and an admin toolkit into one continuously evolving experience.
+
+| | |
+|---|---|
+| **Stack** | Luau · Roblox Studio · DataStoreService · Claude MCP (live dev) |
+| **Scale** | 13-phase economy rollout · 9-app in-game `SmartphoneClient` UI system |
+| **Performance** | Rapid live-debug cycles — resolved mobile sizing, layout, ZIndex, and scoping issues via iterative MCP-driven fixes |
+| **Security** | Admin-gated actions via a dedicated `AdminConfig` ModuleScript and `AdminCommands` system |
+| **Impact** | Actively developed multi-system social space — economy, missions, achievements, admin panel, and in-game UI shipped in sequential phases |
+| **Repository** | Private |
+
+**Highlights**
+- Coin & Tool Store backend — `CoinService`, `ShopService`, `DataService`, `AdminCommands`
+- Full coin economy — playtime rewards, daily rewards, shop, missions, achievements, admin panel (13 sequential deployment phases)
+- Procedural terrain generation — Perlin-noise coconut-palm biomes via `Terrain:FillRegion`
+- Redesigned inventory GUI — pill-shaped hotbar, slide-up panel, tabbed inventory
+- Admin-only Aero Weather topbar panel with live weather controls
+- In-game `SmartphoneClient` — a nine-app in-game phone UI, under active development
+
+</details>
 
 <details>
-<summary><strong>Portfolio Platform</strong></summary>
+<summary><b>🌐 Course Landing Page — Responsive Web Build</b></summary>
+<br/>
 
-Modern MERN portfolio with dynamic admin dashboard.
+A single-file, fully responsive course/product landing page built with Bootstrap 5 — featuring a dark navy/cyan theme, interactive modals, and a carousel.
 
-| Category | Details |
-|-----------|---------|
-| Stack | React, Node.js, Express, MongoDB |
-| Scale | Full Stack |
-| Performance | Optimized API |
-| Security | JWT Authentication |
-| Impact | Professional Portfolio |
-| Repository | Portfolio |
+| | |
+|---|---|
+| **Stack** | HTML · CSS · Bootstrap 5 · JavaScript |
+| **Scale** | Single-page, fully responsive across breakpoints |
+| **Performance** | Single-file architecture — no build step |
+| **Security** | Static site — no server-side attack surface |
+| **Impact** | Built as a web development coursework deliverable |
+| **Repository** | [Add repository link] |
 
-A production-ready portfolio platform featuring authentication, dynamic content management, project showcase, and responsive design.
+</details>
+
+<details>
+<summary><b>➕ [Your Next Project]</b></summary>
+<br/>
+
+[Project description]
+
+| | |
+|---|---|
+| **Stack** | [Tech stack] |
+| **Scale** | [Scale details] |
+| **Performance** | [Performance details] |
+| **Security** | [Security details] |
+| **Impact** | [Impact details] |
+| **Repository** | [Repository link] |
 
 </details>
 
 ---
 
-<details>
-<summary><strong>Kerala Hangout (Roblox)</strong></summary>
+## 💼 Experience
 
-Multiplayer Roblox experience inspired by Kerala culture.
+### [Job Title]
+**[Company Name]** · [Start Date] – [End Date]
 
-| Category | Details |
-|-----------|---------|
-| Stack | Roblox Studio, Lua |
-| Scale | Multiplayer |
-| Performance | Optimized Systems |
-| Security | Server Validation |
-| Impact | Community Platform |
-| Repository | Kerala Hangout |
+[One or two lines of professional description]
 
-Features include inventory systems, NPC shops, leaderboards, daily rewards, economy, social interactions, and immersive environments.
+**Scope of Work**
+- [Responsibility or contribution]
+- [Responsibility or contribution]
+- [Responsibility or contribution]
 
-</details>
+`[Skill Tag]` `[Skill Tag]` `[Skill Tag]` `[Skill Tag]`
 
 ---
 
-<details>
-<summary><strong>ShopNest E-Commerce</strong></summary>
+### [Job Title]
+**[Company Name]** · [Start Date] – [End Date]
 
-Responsive shopping platform.
+[One or two lines of professional description]
 
-| Category | Details |
-|-----------|---------|
-| Stack | HTML, CSS, Bootstrap |
-| Scale | Frontend |
-| Performance | Responsive |
-| Security | Best Practices |
-| Impact | Learning Project |
-| Repository | ShopNest |
+**Scope of Work**
+- [Responsibility or contribution]
+- [Responsibility or contribution]
 
-Modern e-commerce interface showcasing responsive layouts and reusable components.
-
-</details>
+`[Skill Tag]` `[Skill Tag]` `[Skill Tag]`
 
 ---
 
-<details>
-<summary><strong>Assignment Repository</strong></summary>
-
-Collection of JavaScript and MERN assignments.
-
-| Category | Details |
-|-----------|---------|
-| Stack | JavaScript, React |
-| Scale | Educational |
-| Performance | Optimized |
-| Security | Clean Code |
-| Impact | Skill Development |
-| Repository | FSD Assignments |
-
-Demonstrates progressive learning through practical implementations and coding exercises.
-
-</details>
-
----
-
-# Experience
-
-## Full Stack Developer
-
-**Self Learning & Personal Projects**
-
-**2024 — Present**
-
-Building scalable web applications while continuously expanding expertise across frontend, backend, databases, DevOps, and modern software architecture.
-
-### Responsibilities
-
-- Design responsive user interfaces
-- Develop REST APIs
-- Database schema design
-- Authentication & Authorization
-- Performance Optimization
-- Git Version Control
-- UI/UX Improvements
-- Roblox Multiplayer Systems
-
-**Skills**
-
-`JavaScript`
-`React`
-`Node.js`
-`MongoDB`
-`Express`
-`Git`
-`REST API`
-`Lua`
-
----
-
-# Achievements
+## 🏆 Achievements
 
 <div align="center">
 
 | Recognition | Details |
-|--------------|---------|
-| Full Stack Development | MERN Stack Projects |
-| Open Source Learning | GitHub Contributions |
-| Roblox Development | Multiplayer Systems |
-| Continuous Learning | JavaScript & Modern Web |
+|:---:|:---:|
+| [Award / Recognition] | [Details, issuer, year] |
+| [Award / Recognition] | [Details, issuer, year] |
+| [Award / Recognition] | [Details, issuer, year] |
 
 </div>
 
 ---
 
-# Certifications
+## 📜 Certifications
 
-## AWS
+**AWS**
+<br/>
+<img src="https://img.shields.io/badge/Add_Your_AWS_Certification-8B5CF6?style=flat-square&logo=amazonaws&logoColor=white&labelColor=0D1117"/>
 
-![](https://img.shields.io/badge/AWS-In%20Progress-FF9900?style=for-the-badge&logo=amazonaws)
+**Oracle**
+<br/>
+<img src="https://img.shields.io/badge/Add_Your_Oracle_Certification-6366F1?style=flat-square&logo=oracle&logoColor=white&labelColor=0D1117"/>
 
-## Oracle
+**NPTEL**
+<br/>
+<img src="https://img.shields.io/badge/Add_Your_NPTEL_Certification-8B5CF6?style=flat-square&labelColor=0D1117"/>
 
-![](https://img.shields.io/badge/Oracle-Planned-F80000?style=for-the-badge&logo=oracle)
-
-## NPTEL
-
-![](https://img.shields.io/badge/NPTEL-Planned-0056A6?style=for-the-badge)
-
-## Cisco
-
-![](https://img.shields.io/badge/Cisco-Planned-049FD9?style=for-the-badge&logo=cisco)
-
----
-
-# Coding Profiles
-
-<a href="#">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge"/>
-</a>
+**Cisco**
+<br/>
+<img src="https://img.shields.io/badge/Add_Your_Cisco_Certification-6366F1?style=flat-square&logo=cisco&logoColor=white&labelColor=0D1117"/>
 
 ---
 
-# GitHub Analytics
+## 💻 Coding Profiles
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Basiibnumoideen&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=Basiibnumoideen&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basiibnumoideen&layout=compact&theme=tokyonight&hide_border=true"/>
+<a href="https://leetcode.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/LeetCode-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117"/></a>
+<a href="https://geeksforgeeks.org/user/yourusername" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-6366F1?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0D1117"/></a>
+<a href="https://hackerrank.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/HackerRank-8B5CF6?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0D1117"/></a>
+<a href="https://codechef.com/users/yourusername" target="_blank"><img src="https://img.shields.io/badge/CodeChef-6366F1?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0D1117"/></a>
 
 </div>
 
 ---
 
-# GitHub Trophies
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Basiibnumoideen&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E9E4FF&border_color=8B5CF6&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&background=0D1117&stroke=8B5CF6&ring=A78BFA&fire=8B5CF6&border=8B5CF6" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&bg_color=0D1117&title_color=A78BFA&text_color=E9E4FF&border_color=8B5CF6" width="55%"/>
 
 </div>
 
 ---
 
-# Contribution Activity
+## 🏅 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Basiibnumoideen&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&column=7&margin-w=8" width="100%"/>
 
 </div>
 
 ---
 
-# Contribution Snake
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Basiibnumoideen/Basiibnumoideen/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=E9E4FF&area=true&hide_border=true" width="100%"/>
 
 </div>
 
 ---
 
-# Current Focus
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+---
+
+## 🎯 Current Focus
 
 ```yaml
-Learning:
-  - Advanced React
-  - Next.js
-  - System Design
-  - AI Engineering
-
-Building:
-  - Dynamic Portfolio Platform
-  - Kerala Hangout Roblox Experience
-  - MERN Applications
-
-Exploring:
-  - Docker
-  - Cloud Computing
-  - DevOps
-  - AI Automation
-
-Open_To:
-  - Full Stack Roles
-  - Freelance Projects
-  - Open Source
-  - Collaboration
+current_focus:
+  building: "Kerala Hangout — a 9-app in-game SmartphoneClient UI system"
+  learning: "[Add what you're currently learning]"
+  exploring: "AI-augmented development workflows via Claude MCP"
+  open_to: "Roblox / game dev collaborations, freelance work, full-time opportunities"
 ```
 
 ---
 
-# Connect
+## 🔗 Connect
 
 <div align="center">
 
-<a href="mailto:your@email.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/yourprofile">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/Basiibnumoideen">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://yourportfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel"/>
-</a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/></a>
+<a href="https://linkedin.com/in/yourusername" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/></a>
+<a href="https://github.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/></a>
+<a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&labelColor=0D1117"/></a>
 
 </div>
 
@@ -384,10 +290,8 @@ Open_To:
 
 <div align="center">
 
-### *"Building reliable software through continuous learning, clean architecture, and meaningful innovation."*
+*"Ship in phases. Debug live. Let the work speak."*
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:5B21B6,50:7C3AED,100:2563EB"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer" width="100%"/>
 
 </div>
